@@ -8,7 +8,7 @@
   "server": {
     "ip": "y158987-F850.aternos.me",
     "port": 54733,
-    "version": "26.2",
+    "version": false,
     "try-creative": false
   },
   "position": {
