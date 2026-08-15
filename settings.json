@@ -5,10 +5,10 @@
     "password": "",
     "type": "offline"
   },
-    "server": {
+  "server": {
     "ip": "y158987-F850.aternos.me",
     "port": 54733,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
